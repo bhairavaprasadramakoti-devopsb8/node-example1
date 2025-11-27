@@ -1,5 +1,5 @@
 # Step 1: use nodejs as the base image
-# repo.jfrog.hsbc.com/digital/node:18
+# repo.jfrog.****.com/digital/node:18
 FROM node:18
 
 # Step 2 : Set working directory for my application
